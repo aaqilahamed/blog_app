@@ -1,0 +1,52 @@
+[
+    {
+        "title": "My Updated Post",
+        "content": "My first updated post! I am really excited to start sharing my thoughts and experiences here. Blogging allows me to express ideas clearly and keep a record of everything I learn over time, which is very rewarding and motivating.",
+        "user_id": 1
+    },
+    {
+        "title": "A Second Post",
+        "content": "This is a post from a different user. Writing regularly helps improve clarity and understanding. I aim to share useful tips, insights, and tutorials that others can benefit from. Consistency is key to building a valuable collection of knowledge over time.",
+        "user_id": 2
+    },
+    {
+        "title": "Top 5 Programming Languages",
+        "content": "There are countless programming languages, but some stand out due to their versatility, community support, and demand in the industry. This post explores the top five languages you should consider learning, their strengths, typical applications, and why they are popular among developers worldwide.",
+        "user_id": 1
+    },
+    {
+        "title": "Sublime Text Tips and Tricks",
+        "content": "Sublime Text is one of the most popular code editors due to its speed and simplicity. In this post, I share several tips and tricks to boost your productivity, including keyboard shortcuts, multi-cursor editing, and efficient project navigation, making coding faster and more enjoyable.",
+        "user_id": 1
+    },
+    {
+        "title": "Understanding Django Models",
+        "content": "Django models are the backbone of any Django application, providing a clear structure to your data and database interactions. By defining models properly, you can create, retrieve, update, and delete data easily while keeping your code organized, readable, and maintainable throughout the project.",
+        "user_id": 2
+    },
+    {
+        "title": "JavaScript Async/Await Explained",
+        "content": "Async and await in JavaScript allow you to write asynchronous code in a cleaner and more readable way. This post explains how async functions work, how to handle promises efficiently, and practical examples for real-world applications where asynchronous operations are essential for performance.",
+        "user_id": 1
+    },
+    {
+        "title": "CSS Grid vs Flexbox",
+        "content": "CSS Grid and Flexbox are two powerful layout systems that help developers create responsive designs. This post compares them in detail, explaining when to use Grid for two-dimensional layouts and Flexbox for one-dimensional layouts, along with examples to help understand their differences effectively.",
+        "user_id": 2
+    },
+{
+    "title": "Understanding RESTful APIs",
+    "content": "RESTful APIs follow the principles of Representational State Transfer. They use HTTP methods like GET, POST, PUT, and DELETE to perform operations on resources. REST APIs are stateless and provide scalability, simplicity, and flexibility for modern web applications.",
+    "user_id": 4
+},
+{
+    "title": "Responsive Web Design Basics",
+    "content": "Responsive design ensures that a website looks good on all devices, from desktops to smartphones. It involves using flexible grids, fluid images, and media queries in CSS to adapt layouts based on screen size and orientation.",
+    "user_id": 4
+},
+{
+    "title": "Version Control with Git",
+    "content": "Git is a distributed version control system that allows multiple developers to work on the same project efficiently. It tracks changes, supports branching and merging, and helps maintain a complete history of the codebase.",
+    "user_id": 2
+}
+]
